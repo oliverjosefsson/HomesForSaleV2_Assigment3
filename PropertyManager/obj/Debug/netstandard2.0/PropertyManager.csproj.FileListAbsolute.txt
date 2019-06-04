@@ -1,0 +1,12 @@
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\bin\Debug\netstandard2.0\PropertyManager.deps.json
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\bin\Debug\netstandard2.0\PropertyManager.dll
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\bin\Debug\netstandard2.0\PropertyManager.pdb
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.dll
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.pdb
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\bin\Debug\netstandard2.0\Serializer.dll
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\bin\Debug\netstandard2.0\Serializer.pdb
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.csproj.CopyComplete
+C:\Users\Desktop\source\repos\HomesForSale\PropertyManager\obj\Debug\netstandard2.0\PropertyManager.csprojAssemblyReference.cache

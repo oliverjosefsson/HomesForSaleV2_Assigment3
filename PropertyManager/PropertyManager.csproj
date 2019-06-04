@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Serializer">
+      <HintPath>..\Serializer\bin\Debug\netstandard2.0\Serializer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
